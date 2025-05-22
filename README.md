@@ -3,9 +3,16 @@ Improving the experience of the Calculation Summary Page by adding :
 - Swipe to delete
 - Design
 
+<br>
+
 Before improvement : 
-![image](https://github.com/user-attachments/assets/aa76af90-5d92-4e8b-b214-83f26cda085d)
+<br>
+<img src="https://github.com/user-attachments/assets/47beb5a4-a17c-41ec-9b07-9fb753a23441" width="200"/>
+
 
 
 After improvement : 
-<img width="307" alt="Screenshot 2025-05-21 at 10 16 01" src="https://github.com/user-attachments/assets/8faf7efb-1b2f-41c2-9db5-74ca9dbe8f7c" />
+<br>
+<img src="https://github.com/user-attachments/assets/e7307a1b-768c-4559-b998-e37792207c30" width="200"/>
+
+
